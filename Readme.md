@@ -1,6 +1,6 @@
 ## User Study: Identification of breaking changes in clients
 
-Welcome to the user study on analyzing breaking update dependencies in a Java project using Maven!
+Welcome to the user study on analyzing breaking dependency updates in a Java project using Maven!
 In this study, we will explore how to identify compilation failures using the resources provided in this repository.
 
 ### Study Objective
