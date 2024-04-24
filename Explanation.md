@@ -1,6 +1,6 @@
 CI detected that the dependency upgrade from version **flyway-core-3.2.1** to **flyway-core-9.15.0** has failed. Here are details to help you understand and fix the problem:
 1. Your client utilizes **5** instructions which has been modified in the new version of the dependency.
-   git * <details>
+   * <details>
         <summary>Method <b>setLocations(java.lang.String)</b> which has been <b>removed</b> in the new version of the dependency</summary>
             
         * <details>
